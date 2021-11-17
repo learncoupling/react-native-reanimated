@@ -1,5 +1,5 @@
 {
-  "name": "react-native-reanimated-expo-fix",
+  "name": "react-native-reanimated",
   "version": "2.2.5",
   "description": "More powerful alternative to Animated library for React Native.",
   "scripts": {
